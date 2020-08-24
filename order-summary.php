@@ -17,7 +17,7 @@
         <div class="col-md-9 ftco-animate text-center">
           <h1 class="mb-0 bread">Order Summary</h1>
           <p class="breadcrumbs">
-            <span class="mr-2"><a href="index.php">Homes</a></span> 
+            <span class="mr-2"><a href="index.php">Home</a></span> 
             <span>Order Summary</span>
           </p>
         </div>
